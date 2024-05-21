@@ -68,3 +68,7 @@ a = 20
 b = 30
 x = a + b
 print("X value is: " ,x)
+
+from car import car
+car = car('A')
+print (car.value)
