@@ -63,3 +63,8 @@ def dfs(visited, graph, node):
 dfs(visited, graph, 'P')
 
 print("Hi Kalpani")
+
+a = 20
+b = 30
+x = a + b
+print("X value is: " ,x)
